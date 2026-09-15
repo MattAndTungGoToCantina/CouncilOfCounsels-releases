@@ -1,0 +1,15 @@
+Council of Counsels — public download channel
+=============================================
+
+This GitHub repository and any automatic "Source code (zip/tar.gz)"
+archive attached to a Release contain ONLY download-channel notices.
+
+They do NOT contain Council of Counsels application source code.
+
+Install from release assets:
+  - coc-installer.exe
+  - coc-windows-x64.zip
+  - SHA256SUMS
+
+Product source remains private.
+License is issued separately (license.json via CoCLicensing).
